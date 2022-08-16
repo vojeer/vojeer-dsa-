@@ -1,3 +1,5 @@
+// optimize solution for finding the min and max values of the array 
+
 var arr = [3, 46, 75, 53, 100, 2, 46, 90];
 
 function test(arr: number[]): void {
